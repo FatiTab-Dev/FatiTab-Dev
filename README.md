@@ -31,18 +31,18 @@ A passionate **Web Developer** based in Morocco. I enjoy turning complex problem
 #### ✒️ On CodePen
 
 **Web Pages & Layouts:**
-* **[Personal Portfolio Webpage](https://codepen.io/FatiTab-Dev)** – A modern landing page to showcase my work.
-* **[Product Landing Page - "Espresso at Home"](https://codepen.io/FatiTab-Dev)** – Focusing on marketing UI and call-to-actions.
-* **[Café Lecteurs Menu](https://codepen.io/FatiTab-Dev)** – A simple, stylized digital menu interface.
-* **[Tribute Page - Margaret Hamilton](https://codepen.io/FatiTab-Dev)** – Honoring a pioneering software engineer.
-* **[Technical Documentation](https://codepen.io/FatiTab-Dev)** – Clean layout for presenting technical specifications.
+* **[Personal Portfolio Webpage](https://codepen.io/FatiTab-Dev/pen/RNGWYEK)** – A modern landing page to showcase my work.
+* **[Product Landing Page - "Espresso at Home"](https://codepen.io/FatiTab-Dev/pen/vEXNGdR)** – Focusing on marketing UI and call-to-actions.
+* **[Café Lecteurs Menu](https://codepen.io/FatiTab-Dev/pen/YPWLQEO)** – A simple, stylized digital menu interface.
+* **[Tribute Page - Margaret Hamilton](https://codepen.io/FatiTab-Dev/pen/vEXNGpR)** – Honoring a pioneering software engineer.
+* **[Technical Documentation](https://codepen.io/FatiTab-Dev/pen/raMOeJe)** – Clean layout for presenting technical specifications.
 
 **React & Logic:**
-* **[25+5 Clock](https://codepen.io/FatiTab-Dev)** – A countdown timer application.
-* **[Interactive Calculator](https://codepen.io/FatiTab-Dev)** – Full calculator logic using JavaScript.
-* **[Drum Machine](https://codepen.io/FatiTab-Dev)** – A fun, sound-based interface.
-* **[Markdown Previewer](https://codepen.io/FatiTab-Dev)** – Real-time Markdown-to-HTML converter.
-* **[Quote Machine](https://codepen.io/FatiTab-Dev)** – Random quote generator with social sharing.
+* **[25+5 Clock](https://codepen.io/FatiTab-Dev/pen/bNwxKdL)** – A countdown timer application.
+* **[Interactive Calculator](https://codepen.io/FatiTab-Dev/pen/jEMvYLG)** – Full calculator logic using JavaScript.
+* **[Drum Machine](https://codepen.io/FatiTab-Dev/pen/WbGgOWG)** – A fun, sound-based interface.
+* **[Markdown Previewer](https://codepen.io/FatiTab-Dev/pen/bNwxNvo)** – Real-time Markdown-to-HTML converter.
+* **[Quote Machine](https://codepen.io/FatiTab-Dev/pen/ogzMrBy)** – Random quote generator with social sharing.
 
 ---
 
