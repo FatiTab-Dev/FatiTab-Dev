@@ -1,9 +1,11 @@
-# Hi there, I'm Fatima! 👋 
+👋 Hi there, I'm Fatima!
 
-### 🚀 Web Development Apprentice | Chemistry Graduate 🧪
+🚀 Web Development Apprentice | Chemistry Graduate 🧪
 
-A passionate **Web Developer** based in Morocco. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My journey spans from the precision of Chemistry to the logic of Full-Stack Development.
+I'm a passionate Web Developer based in Morocco 🇲🇦.
+I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
+My journey spans from the precision of Chemistry to the logic of Full-Stack Development 🌌
 ---
 
 ### 🛠️ My Tech Stack
@@ -26,7 +28,7 @@ A passionate **Web Developer** based in Morocco. I enjoy turning complex problem
 ### 📂 Featured Work
 
 #### 💻 On GitHub
-* **[Aurora Store](https://github.com/FatiTab-Dev/aurora-store-bootstrap)** – A professional e-commerce interface built using Bootstrap and modern styling techniques.
+* **[Aurora Store](https://github.com/FatiTab-Dev/aurora-store-bootstrap)** – A professional e-commerce interface built using Bootstrap and jQuery , SASS modern styling techniques.
 * **[HTML Course Projects](https://github.com/FatiTab-Dev/HTML-Course-Platform)** – A collection of projects and exercises demonstrating core web structure and semantics.
 
 #### ✒️ On CodePen
@@ -61,4 +63,4 @@ A passionate **Web Developer** based in Morocco. I enjoy turning complex problem
 - 💬 Languages: **Tamazight, Arabic, French, English**
 
 ---
-*"Learning never exhausts the mind."*
+*✨ "Learning never exhausts the mind."*
