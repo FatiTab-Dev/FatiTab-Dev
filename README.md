@@ -17,7 +17,6 @@ A passionate **Web Developer** based in Morocco. I enjoy turning complex problem
 
 **Tools & Design:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -26,7 +25,7 @@ A passionate **Web Developer** based in Morocco. I enjoy turning complex problem
 
 #### 💻 On GitHub
 * **[Aurora Store](https://github.com/FatiTab-Dev/aurora-store-bootstrap)** – A professional e-commerce interface built using Bootstrap and modern styling techniques.
-* **[HTML Course Projects]** – A collection of projects and exercises demonstrating core web structure and semantics.
+* **[HTML Course Projects](https://github.com/FatiTab-Dev/HTML-Course-Platform)** – A collection of projects and exercises demonstrating core web structure and semantics.
 
 #### ✒️ On CodePen
 
