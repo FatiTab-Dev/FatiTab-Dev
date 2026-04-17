@@ -28,8 +28,8 @@ My journey spans from the precision of Chemistry to the logic of Full-Stack Deve
 ### 📂 Featured Work
 
 #### 💻 On GitHub
-* **[Aurora Store](https://github.com/FatiTab-Dev/aurora-store-bootstrap)** – A professional e-commerce interface built using Bootstrap and jQuery , SASS modern styling techniques.
-* **[HTML Course Projects](https://github.com/FatiTab-Dev/HTML-Course-Platform)** – A collection of projects and exercises demonstrating core web structure and semantics.
+* **[Aurora Store](https://github.com/FatiTab-Dev/aurora-store-bootstrap)** – A professional e-commerce interface built using Bootstrap, jQuery, and Sass with modern styling techniques
+* **[HTML Course Projects](https://github.com/FatiTab-Dev/HTML-Course-Platform)** – A collection of projects and exercises demonstrating core web structure and semantics
 
 #### ✒️ On CodePen
 
@@ -48,11 +48,9 @@ My journey spans from the precision of Chemistry to the logic of Full-Stack Deve
 ---
 
 ### 📊 GitHub Activity & Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FatiTab-Dev&show_icons=true&theme=radical&hide_border=true" alt="Fatima's GitHub Stats" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatiTab-Dev&layout=compact&theme=radical&hide_border=true" />
 
 ---
 
