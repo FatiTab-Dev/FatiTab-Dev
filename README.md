@@ -57,7 +57,7 @@ My journey spans from the precision of Chemistry to the logic of Full-Stack Deve
 ### 📫 Let's Connect!
 
 - 🌍 Based in: **Morocco**
-- 💼 Professional Profile: [LinkedIn](https://www.linkedin.com/in/fatima-t-6b5025384)
+- 💼 Professional Profile: [LinkedIn](https://www.linkedin.com/in/fatima-tabt)
 - 💬 Languages: **Tamazight, Arabic, French, English**
 
 ---
