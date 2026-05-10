@@ -51,17 +51,6 @@ My journey spans from the precision of Chemistry to the logic of Full-Stack Deve
 * **[Markdown Previewer](https://codepen.io/FatiTab-Dev/pen/bNwxNvo)** – Real-time Markdown-to-HTML converter.
 * **[Quote Machine](https://codepen.io/FatiTab-Dev/pen/ogzMrBy)** – Random quote generator with social sharing.
 
-
----
-
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatiTab-Dev&show_icons=true&theme=radical&hide_border=true" alt="Fatima's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatiTab-Dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🛠️ Full-Stack Mastery
