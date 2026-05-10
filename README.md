@@ -31,7 +31,7 @@ My journey spans from the precision of Chemistry to the logic of Full-Stack Deve
 
 ### 📂 Featured Work
 
-### 🌐 [Full-Stack Portfolio](https://tabtfatima-one.vercel.app/))
+### 🌐 [Full-Stack Portfolio](https://tabtfatima-one.vercel.app/)
 *A professional MERN stack portfolio built with **React**, ,**express**, **Node.js**, and **Mongoose**.*
 
 #### 💻 On GitHub
